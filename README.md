@@ -144,6 +144,3 @@ See the Google Doc for detailed methodology:
 - Section A: Complete database schema with ERD
 - Section B: Column-by-column data generation strategy
 
-## License
-
-This project is created for evaluation purposes as part of a take-home assignment.
